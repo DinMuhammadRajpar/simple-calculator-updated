@@ -17,10 +17,10 @@ else if (answer.operators === "Subtraction") {
     console.log(`Your answer is ${answer.firstNumber - answer.secondNumber}`);
 }
 else if (answer.operators === "Multiplication") {
-    console.log(`Your answer is ${answer.firstNumber - answer.secondNumber}`);
+    console.log(`Your answer is ${answer.firstNumber * answer.secondNumber}`);
 }
 else if (answer.operators === "Division") {
-    console.log(`Your answer is ${answer.firstNumber - answer.secondNumber}`);
+    console.log(`Your answer is ${answer.firstNumber / answer.secondNumber}`);
 }
 else {
     console.log("Please select valid operator");

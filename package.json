@@ -1,6 +1,6 @@
 {
   "name": "din11-simple-calculator-updated",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple updated calculator ",
   "main": "index.js",
   "type": "module",
